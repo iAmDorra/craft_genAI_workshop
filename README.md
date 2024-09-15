@@ -6,7 +6,7 @@ Do the kata using Github Copilot
 ## Need
 Calculate the invitation date based on eligibility for a specific type of screening, using the date of birth and the current date.
 The invitation date is determined by the following. Add the number of months associated with the type of screening, using the day of birth, the month of birth and the current year.
-If the invitation date falls before today's date, add one year to the current year and recalculate. If the invitation date falls on a public holiday, move it to the next working day. If the invitation date falls on a Saturday or Sunday, move it to the following Monday.
+If the invitation date falls before today's date, add one year to the current year. If the invitation date falls on a public holiday, move it to the next working day. If the invitation date falls on a Saturday or Sunday, move it to the following Monday.
 
 # French
 Faire le kata en s'appuyant fortement sur GitHub Copilot
